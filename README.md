@@ -3,8 +3,8 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I am msfxvenom<br>
-        Currently learning web development<br>
+        I am Shivam !<br>
+        Currently on web development path<br>
         Open to collaborating on interesting projects<br>
     </i><br>
 <!--     <a href="https://www.linkedin.com/in/msfxvenom">
